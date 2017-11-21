@@ -1,4 +1,7 @@
 # gatsby-starter-kitchen-sink
+
+# THIS PROJECT IS FOR < v1 of Gatsby — try one of the starters at https://www.gatsbyjs.org/docs/gatsby-starters/
+
 A Gatsby kitchen sink starter demoing the many capabilities of Gatsby.
 
 Install this starter (assuming Gatsby is installed) by running from your CLI:
